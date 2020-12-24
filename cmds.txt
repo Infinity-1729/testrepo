@@ -1,2 +1,6 @@
 Harsh here
+<<<<<<< HEAD
 here also hellow
+=======
+hellow
+>>>>>>> refs/remotes/origin/main
